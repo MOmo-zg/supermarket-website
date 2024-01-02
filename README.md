@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-test
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# supermarket-website
+>>>>>>> a84f43950515c3c4709e649909dd0ac78682fd16
